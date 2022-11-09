@@ -4,7 +4,7 @@ This is the NetworkService for the Calendly project in its own Swift Package Man
 
 ## Build tools & versions used
 - Xcode 14.1
-- swift-tools-version 5.5, the latest for Swift Package Manager as of writing.
+- swift-tools-version 5.5.
 
 ## Steps to run the app
 The only thing you can really do here is run the tests.  
